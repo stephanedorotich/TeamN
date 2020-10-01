@@ -6,14 +6,15 @@ Our aim is to become perceptive and insightful designers by studying the user ex
 to our project's development.
 
 ### Stéphane Dorotich: Coordinator, Editor
-> <img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Stephane.jpg" alt="Stéphane" height="250"> Stéphane studies a variety of topics including Sociology, Linguistics, and Psychology, but is currently completing a Bachelor of Computer Science at the University of Calgary. He is interested in the ways we use and abuse technology and would like to design tools that facilitate decision making and consensus building. An avid rock climber, musician, and gamer, Stéphane enjoys anything that engages his mental and physical faculties.
+<img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Stephane.jpg" alt="Stéphane" height="250">
+> Stéphane studies a variety of topics including Sociology, Linguistics, and Psychology, but is currently completing a Bachelor of Computer Science at the University of Calgary. He is interested in the ways we use and abuse technology and would like to design tools that facilitate decision making and consensus building. An avid rock climber, musician, and gamer, Stéphane enjoys anything that engages his mental and physical faculties.
 
 ### Kathryn Lepine: UI developer
 <img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Kathryn.jpg" alt="Kathryn" height="250">
 > Kathryn Lepine is in her fourth year at the University of Calgary studying a combined degree of Computer Science and Finance. Her skills include organization and problem solving and she hopes to pursue a career in Information Technology in the future. In her free time, she enjoys hiking in the mountains, playing tennis, curling, and running. This summer, she hiked 227 kilometers and 22,005 meters in elevation. She is a hard-working individual who values the balance between academics and physical activity in her free time. 
 
 ### Andy Ma: Reviewer
-<img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Andy.jpg" alt="Andy" height="250">
+<img src="https://github.com/stephanedorotich/TeamN/blob/stage_one/resources/Andy.png" alt="Andy" height="250">
 > Hi, my name is Andy Ma. I am a fifth-year student at the University of Calgary. My program of study is a combined Bachelor of Science degree in Computer Science and General Mathematics. In my studies in Computer Science, I have chosen to take courses in a wide variety of fields in Computer Science, including Information Security, Computer Graphics, Human-Computer Interaction, Software Engineering, Theoretical Computer Science, and Computer Networks. As a result, I have a relatively high breadth of knowledge. I have also developed a proficiency in many programming languages, including Python, Java, C, C++, and HTML/CSS/JavaScript/PHP/SQL. From my studies in General Mathematics, I developed strong logical reasoning skills and the ability to solve difficult problems. My academic performance at the University of Calgary demonstrates that I am a fast learner who consistently produces high-quality work in a timely manner. 
 
 ### Macks Tam: Writer, UI developer, Scribe
