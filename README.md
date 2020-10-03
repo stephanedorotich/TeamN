@@ -1,35 +1,49 @@
-# TeamN
+# Team N
 
-## Who we are
-TeamN is a group of dedicated students studying Human-Computer Interaction (HCI) at the [University of Calgary](https://www.ucalgary.ca/) (Fall 2020).
-Our aim is to become perceptive and insightful designers by learning about the user experience and how to apply our findings to project development.
+## Who We Are
+Team N is a group of dedicated students studying Human-Computer Interaction (HCI) at the University of Calgary (Fall 2020).
+Our aim is to become perceptive and insightful designers by studying the user experience and applying our findings
+to project development.
 
-### Stéphane Dorotich
-> A student of Computer Science at UofC, Stéphane is interested in society's relationship with technology and would like to develop tools that promote informed decision making. He is an avid musician, rock climber, and gamer, enjoying the mental and physical engagement of those and many other activities.
+## Stage One
+For stage one we:
+- Created a [repository](https://github.com/stephanedorotich/TeamN)
+- Created a [portfolio](https://teamlepinee.wixsite.com/cpsc481teamn)
+- Drafted a [team contract](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/teamContract_teamN.pdf)
+- Drafted a [PDF](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/projectProposal_teamN.pdf) with three project proposals
 
-### Kathryn Lepine
-> Hello
+We proposed a *Schedule Planner* to facilitate time management, a *Virtual Clothing App* that allows users to 'try-on' clothing while shopping online, and a *Drone Delivery Command Centre Interface* to manage a fleet of drones performing local deliveries.
 
-### Andy Ma
-> Hey there
+### Stage One Tasks
+#### Kathryn Lepine:
+- Complete section A (individual) of Team Contract
+- Write a brief personal bio and provide an accompanying photo
+- Write a proposal for the "Virtual Clothing App"
+- Create website for portfolio
 
-### Macks Tam
-> Howdy
+#### Macks Tam:
+- Complete section A (individual) of Team Contract
+- Write a brief personal bio and provide an accompanying photo
+- Create shared files for Team Contract & Project Proposal
+- Write a proposal for the "Schedule Planner"
 
-### Nick Wasilowsky
-> Ohayo
+#### Nick Wasilewsky:
+- Complete section A (individual) of Team Contract
+- Write a brief personal bio and provide an accompanying photo
+- Write a proposal for the "Drone Delivery Command Centre Interface"
 
-## Project Proposals
-### Project 1:
->A desc of proposal 1
+#### Andy Ma:
+- Complete section A (individual) of Team Contract
+- Write a brief personal bio and provide an accompanying photo
+- Submit deliverables. Publish Team Contract & Project Proposals as PDFs, submit them to D2L and post them to our repository and Microsoft Teams channel
+- Proof read documents and ensure that stage specifications are met
 
-### Project 2:
->A desc of proposal 2
+#### Stephane Dorotich:
+- Complete section A (individual) of Team Contract
+- Write a brief personal bio and provide an accompanying photo
+- Manage GitHub repository. Maintain its files, README, and branches
+- Facilitate team meetings
 
-### Project 3:
->A desc of proposal 3
+![Photo of Penguin](https://cdn.dribbble.com/users/1044993/screenshots/2728068/sliding_penguin_dribbble.jpg)
 
-## Team Contract
-Our contract can be viewed [here](https://github.com/stephandorotich/TeamN/blob/master/notes.txt)
-
-![Image of Penguin](https://cdn.dribbble.com/users/1044993/screenshots/2728068/sliding_penguin_dribbble.jpg)
+Photo Credit - Alfrey Davilla: https://dribbble.com/shots/2728068-Sliding-Penguin
