@@ -10,9 +10,9 @@ For stage one we:
 - Created a [repository](https://github.com/stephanedorotich/TeamN)
 - Created a [portfolio](https://teamlepinee.wixsite.com/cpsc481teamn)
 - Drafted a [team contract](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/teamContract_teamN.pdf)
-- Submitted a [PDF](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/projectProposal_teamN.pdf) with three project proposals.
+- Drafted a [PDF](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/projectProposal_teamN.pdf) with three project proposals
 
-We proposed a **Schedule Planner** to facilitate time management, a **Virtual Clothing App** that allows users to 'try-on' clothing while shopping online, and a **Drone Delivery Command Centre Interface** to manage a fleet of drones performing local deliveries.
+We proposed a *Schedule Planner* to facilitate time management, a *Virtual Clothing App* that allows users to 'try-on' clothing while shopping online, and a *Drone Delivery Command Centre Interface* to manage a fleet of drones performing local deliveries.
 
 ### Stage One Tasks
 #### Kathryn Lepine:
