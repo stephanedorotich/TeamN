@@ -6,16 +6,21 @@ Our aim is to become perceptive and insightful designers by studying the user ex
 to our project's development.
 
 ## Team Portfolio
-Our [team portfolio](https://teamlepinee.wixsite.com/cpsc481teamn) hosts the deliverables for
-each completed stage of our project as well as bios for each of our team members.
+Our [team portfolio](https://teamlepinee.wixsite.com/cpsc481teamn) hosts the deliverables for each completed stage of our project as well as bios for each of our team members.
 
 ## Team Contract
 Our [team contract](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/teamContract_teamN.pdf) contains a short profile for each team member as well as a group drafted contract that outlines the code of conduct that our members will adhere to for the course of the project.
 
 ## Stage One
-In Stage One, in addition to creating our Portfolio and establishing our Team Contract, we proposed 3 products that solve a problem or improve an existing solution. We proposed a Schedule Planner to aid users with time management, a Virtual Clothing App to allow users to 'try-on' clothing while shopping online, and a Drone Delivery Command Centre Interface to manage a fleet of drones performing local deliveries.
+Our stage one deliverables were to:
+- Create an online repository
+- Create an online portfolio
+- Draft a team contract
+- Submit three proposed ideas for the team project.
 
-Our detailed project proposals can be found [here](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/projectProposal_teamN.pdf).
+The projects we proposed are a Schedule Planner to aid users with time management, a Virtual Clothing App that allows users to 'try-on' clothing while shopping online, and a Drone Delivery Command Centre Interface to manage a fleet of drones performing local deliveries.
+
+Our detailed proposals can be found [here](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/projectProposal_teamN.pdf).
 
 ### Team Member Tasks:
 #### Kathryn Lepine:
