@@ -10,12 +10,10 @@ Our [team portfolio](https://teamlepinee.wixsite.com/cpsc481teamn) hosts the del
 each completed stage of our project as well as bios for each of our team members.
 
 ## Team Contract
-Our [team contract](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/teamContract_teamN.pdf) contains a short profile on each team member as well a group drafted contract
-outlining the code that our members will adhere to for the course of the project.
+Our [team contract](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/teamContract_teamN.pdf) contains a short profile for each team member as well as a group drafted contract that outlines the code of conduct that our members will adhere to for the course of the project.
 
 ## Stage One
-In Stage One, in addition to creating our Portfolio and establishing our Team Contract, we proposed 3 different projects that are a product or a service
-that solves a problem or improves an existing solution. We proposed a Schedule Planner to optimize people's schedules, a Virtual Clothing App to allow users to 'try-on' clothing while shopping online, and a Drone Delivery Command Centre Interface to allow for the management of a fleet of drones performing local deliveries.
+In Stage One, in addition to creating our Portfolio and establishing our Team Contract, we proposed 3 products that solve a problem or improve an existing solution. We proposed a Schedule Planner to aid users with time management, a Virtual Clothing App to allow users to 'try-on' clothing while shopping online, and a Drone Delivery Command Centre Interface to manage a fleet of drones performing local deliveries.
 
 Our detailed project proposals can be found [here](https://github.com/stephanedorotich/TeamN/blob/stage_one/stage_one/deliverables/projectProposal_teamN.pdf).
 
@@ -44,4 +42,5 @@ Our detailed project proposals can be found [here](https://github.com/stephanedo
 - Manage github repository. Maintain its files, file structure, README file, and branches
 
 ![Photo of Penguin](https://cdn.dribbble.com/users/1044993/screenshots/2728068/sliding_penguin_dribbble.jpg)
+
 Photo Credit - Alfrey Davilla: https://dribbble.com/shots/2728068-Sliding-Penguin
