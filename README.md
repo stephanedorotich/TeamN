@@ -15,6 +15,9 @@ For stage one we:
 We proposed a *Schedule Planner* to facilitate time management, a *Virtual Clothing App* that allows users to 'try-on' clothing while shopping online, and a *Drone Delivery Command Centre Interface* to manage a fleet of drones performing local deliveries.
 
 ### Stage One Tasks
+<details>
+   <summary>Click to view team member tasks</summary>
+  
 #### Kathryn Lepine:
 - Complete section A (individual) of Team Contract
 - Write a brief personal bio and provide an accompanying photo
@@ -43,6 +46,34 @@ We proposed a *Schedule Planner* to facilitate time management, a *Virtual Cloth
 - Write a brief personal bio and provide an accompanying photo
 - Manage GitHub repository. Maintain its files, README, and branches
 - Facilitate team meetings
+</details>
+
+## Stage Two
+For stage two we:
+  - Conducted user research
+  - Drafted a [user research report](https://github.com/stephanedorotich/TeamN/blob/stage_two/stage_two/deliverables/userResearchReport_TeamN.pdf)
+  
+We began by identifying our stakeholders, describing the people and users who are affected by our system. We then selected three IDEO methods we thought were appropriate to understanding our users and applied each. Our findings are summarized in our User Research Report. Reflecting on the research, we also describe 6-8 user tasks that our system could support.
+
+### Stage Two Tasks
+<details>
+   <summary>Click to view team member tasks</summary>
+  
+#### Kathryn Lepine:
+- something
+
+#### Macks Tam:
+- another thing
+
+#### Nick Wasilewsky:
+- this thing
+
+#### Andy Ma:
+- that thing
+
+#### Stephane Dorotich:
+- a thing
+</details>
 
 ![Photo of Penguin](https://cdn.dribbble.com/users/1044993/screenshots/2728068/sliding_penguin_dribbble.jpg)
 
