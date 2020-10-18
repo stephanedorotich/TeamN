@@ -64,14 +64,14 @@ For stage two we:
   - Conducted user research
   - Drafted a [user research report](https://github.com/stephanedorotich/TeamN/blob/stage_two/stage_two/deliverables/userResearchReport_TeamN.pdf)
   
-We began by identifying our stakeholders, describing the people and users who are affected by our system. We then selected three IDEO methods we thought were appropriate to understanding our users and applied each. The methods we used were Activity Analysis, Error Analysis, and Scenarios and our findings are summarized in our User Research Report.
+We began by identifying our stakeholders, describing the people and users who are affected by our system. We then selected three IDEO methods we thought were appropriate to understanding our users and applied each. The methods we used were Activity Analysis, Error Analysis, and Scenarios and our findings are summarized in our User Research Report. Reflecting on the research, we also describe 6-8 user tasks that our system could support.
 
 <details>
    <summary>Stage Two Tasks</summary>
   
 #### Kathryn Lepine:
 - Participate in brainstorming for each IDEO method
-- Report on the Activity analysis method
+- Report on the Activity Analysis method
 - Update the [team portfolio](https://teamlepinee.wixsite.com/cpsc481teamn)
 
 #### Macks Tam:
@@ -92,7 +92,9 @@ We began by identifying our stakeholders, describing the people and users who ar
 #### Stephane Dorotich:
 - Participate in brainstorming for each IDEO method
 - Compose the scenarios
+- Write the Stakeholders section
 - Reflect on the research
+- Update the repository
 - Facilitate team meetings
 
 </details>
