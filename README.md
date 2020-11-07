@@ -49,7 +49,7 @@ We proposed a *Schedule Planner* to facilitate time management, a *Virtual Cloth
 - Submit deliverables. Publish Team Contract & Project Proposals as PDFs, submit them to D2L and post them to our repository and Microsoft Teams channel
 - Proof read documents and ensure that stage specifications are met
 
-#### Stephane Dorotich:
+#### Stéphane Dorotich:
 - Complete section A (individual) of Team Contract
 - Write a brief personal bio and provide an accompanying photo
 - Manage GitHub repository. Maintain its files, README, and branches
@@ -89,13 +89,78 @@ We began by identifying our stakeholders, describing the people and users who ar
 - Justify the selection of research methods
 - Review and proof-read the report
 
-#### Stephane Dorotich:
+#### Stéphane Dorotich:
 - Participate in brainstorming for each IDEO method
 - Compose the scenarios
 - Write the Stakeholders section
 - Reflect on the research
 - Update the repository
 - Facilitate team meetings
+
+</details>
+</details>
+
+## Stage Three
+<details>
+
+For stage three we:
+  - Brainstormed ideas for our system design
+  - Reviewed those ideas and developed a unified concept for our system design
+  - Built a low-fidelity [prototype](https://github.com/stephanedorotich/TeamN/blob/master/stage_three/DFMS_LowFi.pdf) of our system design (using Balsamiq)
+  - Evaluated the prototype by performing Cognitive Walkthrough Analyses
+  - Recorded a prototype demo video
+  - Prepared a [presentation](https://github.com/stephanedorotich/TeamN/blob/master/stage_three/stageThreePresentation.pptx) to report and reflect on the stage
+  - Wrote a [stage report](https://github.com/stephanedorotich/TeamN/blob/master/stage_three/stageThreeReport.pdf)
+  
+<details>
+   <summary>Stage Three Tasks</summary>
+   
+Each team member participated in the following tasks:
+- Draw 5 sketches based on the user tasks identified in stage two
+- Participate in a discussion to identify the strengths, weaknesses, and similarities between these sketches
+- Participate in an Affinity Diagramming session
+- Review preliminary prototypes and provide feedback
+  
+#### Kathryn Lepine:
+- Draw a new sketch for 'Drone History' based on our learnings from the Affinity Diagramming session
+- Develop a vertical prototype for 'Drone History'
+- Perform a Cognitive Walkthrough Analysis for 'Drone History'
+- Create a skeleton PowerPoint presentation for the team
+- Present the Affinity Diagram
+- Present the Storyboard
+- Update the [team portfolio](https://teamlepinee.wixsite.com/cpsc481teamn)
+
+#### Macks Tam:
+- Draw a new sketch for 'Map View' based on our learnings from the Affinity Diagramming session
+- Develop a vertical prototype for 'Map View'
+- Aggregate preliminary prototypes (after updates) to a final low-fidelity prototype
+- Perform a Cognitive Walkthrough Analysis for 'Map View'
+- Present the Introduction
+- Present the Project Description
+
+#### Nicholas Wasilewsky:
+- Finalize the Affinity Diagram by uploading sketch pictures
+- Design a storyboard to illustrate a context of use of our system
+- Perform a Cognitive Walkthrough Analysis for 'Drone Status'
+- Record the prototype demo video
+
+#### Andy Ma:
+- Draw sketches for our horizontal tasks based on our learnings from the Affinity Diagramming session
+- Develop a horizontal prototype for 6 tasks
+- Ensure correctness of the final low-fidelity prototype
+- Review the stage report
+- Present the Prototyping Discussion
+- Present the Cognitive Walkthrough Analysis
+- Submit the deliverables
+
+#### Stéphane Dorotich:
+- Facilitate team meetings and write minutes for them
+- Draw a new sketch for 'Drone Status' based on our learnings from the Affinity Diagramming session
+- Develop a vertical prototype for 'Drone Status'
+- Present the Ideation Process
+- Present the Conclusion
+- Update the GitHub repository
+- Write the stage report
 
 </details>
 </details>
