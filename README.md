@@ -137,7 +137,7 @@ Each team member participated in the following tasks:
 - Draw a new sketch for 'Map View' based on our learnings from the Affinity Diagramming session
 - Develop a vertical prototype for 'Map View'
 - Perform a Cognitive Walkthrough Analysis for 'Map View'
-- Made improvements to low-fidelity prototype after Cognitive Walkthrough analyses
+- Made improvements to low-fidelity prototype after Cognitive Walkthrough Analyses
 - Present the Introduction
 - Present the Project Description
 
@@ -158,7 +158,7 @@ Each team member participated in the following tasks:
 
 #### Stéphane Dorotich:
 - Facilitate team meetings and write minutes for them
-- Connected affinity diagram themes
+- Connected Affinity Diagram themes
 - Draw a new sketch for 'Drone Status' based on our learnings from the Affinity Diagramming session
 - Develop a vertical prototype for 'Drone Status'
 - Present the Ideation Process
