@@ -185,6 +185,7 @@ For stage four we:
    <summary>Stage Four Tasks</summary>
    
 #### Kathryn Lepine:
+- Created a logo for the prototype
 - Prototype the 'Drone List' page
 - Perform a Heuristic Evaluation of the prototype
 - Create the PowerPoint presentation
@@ -213,21 +214,23 @@ For stage four we:
 - Record the prototype demo video
 
 #### Andy Ma:
-- Perform a Heuristic Evaluation of the prototype
 - Prototype the horizontal tasks:
   - Login
   - Fleet Statistics
   - Manual Control
   - Issue Advisory
   - Register Drone
-- Implement and record the changes recommended by the Heuristic Evaluation findings
-- Review the report and presentation
+  - Drone Recovery Request
+- Perform a Heuristic Evaluation of the prototype
+- Implement and take screenshots of the changes recommended by the Heuristic Evaluation findings
+- Review all the work done for stage four
 - Submit the deliverables
 
 #### Stéphane Dorotich:
 - Facilitate team meetings
 - Initialize Figma prototype, set colour & text Styles, and build a page template
 - Prototype the 'Map' page
+- Prototype the horizontal task: Recall
 - Review the three Heuristic Evaluations and compare with Nicholas Wasilewski
 - Summarize findings from the Heuristic Evaluations
 - Present the Heuristic Evaluation:
