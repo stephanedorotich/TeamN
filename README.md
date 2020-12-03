@@ -272,13 +272,14 @@ For stage five we:
   - User Research Findings
   - Low-Fidelity Prototype Design - Lessons Learned
   - High-Fidelity Prototype Design - Lessons Learned
+  - Stage Five Design Changes and Future Changes
 
 #### Nicholas Wasilewski:
 - Record the prototype demo video
 
 #### Andy Ma:
 - Write the following sections for the report:
-  - Important design choices and justification
+  - Design Choices and Justification
   - Heuristic Evaluation and Findings
   - Stage Four Heuristic Evaluation Design Changes 
 - Review all work done for stage five
